@@ -1,0 +1,30 @@
+body {
+}
+
+.keep-inline {
+  display: inline-block;
+}
+
+.addbg {
+  height: 580px;
+  width: 100%;
+  background-color: #f0fff0;
+}
+
+.float-right {
+  padding-left: 30%;
+}
+
+.cl {
+  margin-right: 15px;
+  padding: 5px;
+  font-size: 20px;
+  color: rgb(34, 29, 29) !important;
+}
+.cl:hover {
+  background-color: black;
+  color: #f0fff0 !important;
+}
+.btn {
+  border-radius: 33px;
+}
