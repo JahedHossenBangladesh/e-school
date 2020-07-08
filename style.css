@@ -105,3 +105,9 @@ span {
 .middle {
   margin-bottom: 25px;
 }
+.man img {
+  float: left;
+  height: 300px;
+  width: 100%;
+  padding-right: 0%;
+}
