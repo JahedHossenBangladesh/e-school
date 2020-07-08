@@ -15,6 +15,7 @@ body {
   width: 104px;
   height: 43px;
   padding: 8px;
+  border-radius: 33px;
   color: white !important ;
   background-color: #218573;
   border: none;
@@ -43,7 +44,7 @@ span {
 .addbg {
   height: 576px;
   width: 100%;
-  background-color: #f0fff0;
+  background-color: ;
 }
 
 .float-right {
@@ -60,8 +61,22 @@ span {
   background-color: black;
   color: #f0fff0 !important;
 }
-.btn {
-  border-radius: 33px;
+
+/* this is the card section */
+.addcard {
+  background-color: white;
+  height: 400px;
+  width: 100%;
+  margin-bottom: 0px;
 }
-.useimg img {
+.addcard img {
+  margin-bottom: 35px;
+}
+.container img {
+  height: 70px;
+  width: 80px;
+  padding-left: 25px;
+}
+.text-block {
+  display: inline-block;
 }
