@@ -1,6 +1,15 @@
 body {
 }
+.logon {
+  height: 86px;
+  width: 34px;
+}
 
+.addbg {
+  height: 576px;
+  width: 100%;
+  background-color: #f0fff0;
+}
 .btn2 {
   width: 150px;
   display: inline-block;
@@ -79,4 +88,20 @@ span {
 }
 .text-block {
   display: inline-block;
+  text-align: center;
+}
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+.fa-users {
+  float: right;
+  display: inline-block;
+}
+.middle {
+  margin-bottom: 25px;
 }
