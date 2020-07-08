@@ -1,12 +1,47 @@
 body {
 }
 
-.keep-inline {
+.btn2 {
+  width: 150px;
   display: inline-block;
+  height: 43px;
+  padding: 8px;
+  color: white !important ;
+  background-color: #218573;
+  border: none;
+  border-radius: 10px;
 }
-
+.btn {
+  width: 104px;
+  height: 43px;
+  padding: 8px;
+  color: white !important ;
+  background-color: #218573;
+  border: none;
+}
+span {
+  color: #218573;
+}
+.addmar {
+  margin-bottom: 10%;
+}
+.addanother {
+  font-family: poppins;
+  padding: 5%;
+}
+.addanother h6 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: red;
+}
+.addanother h1 {
+  padding: 10px;
+}
+.row {
+  width: 100%;
+  padding: 10%;
+}
 .addbg {
-  height: 580px;
+  height: 576px;
   width: 100%;
   background-color: #f0fff0;
 }
@@ -27,4 +62,6 @@ body {
 }
 .btn {
   border-radius: 33px;
+}
+.useimg img {
 }
