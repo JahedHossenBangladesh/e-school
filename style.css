@@ -1,7 +1,7 @@
 body {
 }
 .logon {
-  height: 86px;
+  height: 90px;
   width: 34px;
 }
 
@@ -47,13 +47,15 @@ span {
   padding: 10px;
 }
 .row {
+  text-align: center;
   width: 100%;
   padding: 10%;
 }
 .addbg {
   height: 576px;
   width: 100%;
-  background-color: ;
+  background-color: #f0fff0;
+  margin-bottom: 0%;
 }
 
 .float-right {
@@ -74,12 +76,12 @@ span {
 /* this is the card section */
 .addcard {
   background-color: white;
-  height: 400px;
+  height: 50%;
   width: 100%;
-  margin-bottom: 0px;
+  margin-top: 5%;
 }
 .addcard img {
-  margin-bottom: 35px;
+  margin: 52px;
 }
 .container img {
   height: 70px;
@@ -110,4 +112,44 @@ span {
   height: 300px;
   width: 100%;
   padding-right: 0%;
+}
+/* this is the last part  */
+.last-bg {
+  height: 50%;
+  width: 100%;
+  background-color: #282531;
+  /* background-image: linear-gradient( */
+  /* to left, */
+  /* rgba(182, 166, 166, 0), */
+  /* rgb(68, 41, 66) */
+  /* ); */
+}
+.zl {
+  color: white;
+  font-family: poppins;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 2px;
+}
+ul li {
+  color: rgb(237, 234, 238);
+  margin: 5px;
+  padding-left: 4px;
+  padding-top: 8px;
+  font-weight: 400;
+}
+
+footer {
+  color: white;
+  text-align: center;
+}
+.rong {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rgb(202, 143, 143);
+}
+
+.container {
+  height: 100%;
 }
